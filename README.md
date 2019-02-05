@@ -27,8 +27,8 @@ Training mongodb
   connecting to: mongodb://localhost:27017/training_mongo
   MongoDB server version: X.X.X
   ```
-- [studio3t](/docs/sudio3t.md)
-- [robo3t](/docs/sudio3t.md)
+- [studio3t](https://github.com/dohr-michael/training-mongodb/blob/master/docs/studio3t.md)
+- [robo3t](https://github.com/dohr-michael/training-mongodb/blob/master/docs/robo3t.md)
 
 ## Data Model
 ![Data Model](/assets/training-model.png)
