@@ -54,4 +54,4 @@ Training mongodb
 
 
 ### Suppression
-
+1. En réalité nous ne voulons que les films de 2012, supprimer tout les autres
