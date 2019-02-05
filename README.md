@@ -30,4 +30,4 @@ Training mongodb
 - robo3t / studio3t
 
 ## Data Model
-![Data Model](/training-model.png)
+![Data Model](/assets/training-model.png)
