@@ -32,3 +32,26 @@ Training mongodb
 
 ## Data Model
 ![Data Model](/assets/training-model.png)
+
+## Exercices
+### Recherche
+1. Rechercher le film `Batman Forever`
+2. Rechercher le nombre de films qui ont une note supérieure à 6
+3. Rechercher les films et émissions de TV `batman` (tips : utilisez une regex)
+4. Rechercher le nombre de films annulés.
+5. Rechercher les films dans lesquels `George Clooney` a joué
+6. Rechercher le top 10 des films les mieux notés
+7. Rechercher le top 10 des films les moins bien notés (ne pas prendre en compte les films sans votes)
+8. Rechercher les acteurs prénommé `Kevin`
+9. Rechercher le nombre d’acteur ayant joué dans 5 ou 6 films
+10. Rechercher le nombre d’acteur ayant joué dans 5 films et se prénommant `George`
+
+### Creation et Mise à jour
+1. Insérer le film `The Avengers`
+2. Insérer ou mettez à jours les acteurs jouant dans `The Avengers` (tips : utilisé l’option upsert, les ids des acteurs sont a utiliser uniquement lors d’une insertion.)
+3. Mettre à jour le film `The Avenger` pour ajouter les rôles.
+4. Une erreur est survenue sur le rôle de `Robert Downey Jr.`, effectué une mise à jour pour corriger l’erreur de typo : { role: "Tony Stark / Iron Man" }
+
+
+### Suppression
+
